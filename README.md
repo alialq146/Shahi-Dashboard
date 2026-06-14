@@ -1,5 +1,5 @@
 <div align="center">
-![Shahi Dashboard](shahi-dashboard.png)
+<img src="shahi-dashboard.png" alt="Shahi Dashboard" width="600"/>
    
 # ☕ شاهي الجبل — لوحة الإدارة الداخلية
 
