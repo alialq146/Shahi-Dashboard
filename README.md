@@ -1,5 +1,6 @@
 <div align="center">
-
+![Shahi Dashboard](shahi-dashboard.png)
+   
 # ☕ شاهي الجبل — لوحة الإدارة الداخلية
 
 **Shahi Al-Jabal — Internal Management Dashboard**
